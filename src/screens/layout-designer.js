@@ -2,7 +2,7 @@
 1. grid layout for HR Dashboard
 */
 
-import { Box, Button } from '@mui/material';
+import { Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Unstable_Grid2';
